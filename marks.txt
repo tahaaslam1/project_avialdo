@@ -1,0 +1,60 @@
+Name : tahaaslam
+ID : k190147
+Subject : AP
+Subject Marks : 43.00
+
+Name : hassan
+ID : k190238
+Subject : PF
+Subject Marks : 100.00
+
+Name : tahaaslam
+ID : k190147
+Subject : ISL
+Subject Marks : 99.00
+
+Name : hassan
+ID : k190238
+Subject : AP
+Subject Marks : 52.00
+
+Name : tahaaslam
+ID : k190147
+Subject : PF
+Subject Marks : 99.00
+
+Name : hassan
+ID : k190238
+Subject : PF
+Subject Marks : 100.00
+
+Name : hassan
+ID : k190238
+Subject : AP
+Subject Marks : 32.00
+
+Name : hassan
+ID : k190238
+Subject : AP
+Subject Marks : 54.00
+
+Name : hassan
+ID : k190238
+Subject : PF
+Subject Marks : 12.00
+
+Name : asd
+ID : asd
+Subject : AP
+Subject Marks : 21.00
+
+Name : hassan
+ID : k190238
+Subject : ISL
+Subject Marks : 54.00
+
+Name : asd
+ID : asd
+Subject : AP
+Subject Marks : 90.00
+
